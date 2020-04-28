@@ -60,7 +60,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color:#008B8B;
 }
 
 [tabindex="-1"]:focus {
@@ -517,7 +517,7 @@ a > code {
 kbd {
   padding: 0.2rem 0.4rem;
   font-size: 87.5%;
-  color: #fff;
+  color: #008B8B;
   background-color: #212529;
   border-radius: 0.2rem;
 }
@@ -10015,7 +10015,7 @@ a.text-dark:hover, a.text-dark:focus {
   }
   .table td,
   .table th {
-    background-color: #fff !important;
+    background-color:#008B8B!important;
   }
   .table-bordered th,
   .table-bordered td {
